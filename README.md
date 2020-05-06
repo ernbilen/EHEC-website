@@ -1,2 +1,5 @@
-# EHEC-website
-The official repository for the EHEC website.
+# EHEC
+
+## Welcome
+
+`ehealthecon.org` is the official website for Electronic Health Economics Colloquium (EHEC) which stores various information on the upcoming schedule, resources, and announcements.
