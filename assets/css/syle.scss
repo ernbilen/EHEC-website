@@ -1,6 +1,6 @@
 ---
 ---
 
+{{ site.theme_color | default: "#00000" }}
 
-
-@import 'jekyll-theme-cayman';
+@import "{{ site.theme }}";
