@@ -5,7 +5,7 @@ The Electronic Health Economics Colloquium (EHEC) is a bi-weekly online health e
 EHEC is co-organized by Shooshan Danagoulian (fr4523@wayne.edu, @Shooshan5), Ezra Golberstein (egolber@umn.edu, @EGolberstein), Sayeh Nikpay (sayeh.s.nikpay@vanderbilt.edu, @SayNikpay), and David Slusky (david.slusky@ku.edu, @DavidSlusky). 
 
 EHEC is also supported by an organizing committee of:
-Orgul Ozturk (odozturk@moore.sc.edu)
+Orgul Ozturk (odozturk@moore.sc.edu) \\
 Catherine Maclean (catherine.maclean@temple.edu)
 David Bradford (bradfowd@uga.edu)
 David Anderson (DMA34@duke.edu)
