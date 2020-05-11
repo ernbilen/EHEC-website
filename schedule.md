@@ -35,8 +35,10 @@ Here is information on the schedule.
 </tr>
 <tr>
   <td width="70" valign="top" class="time">11:40 am</td>
-  <td height="30" valign="top" class="paper"><a href="pdfs/paper1.pdf">Title of presentation</a></td>
+  <td height="30" valign="top" class="paper"><a href="pdfs/Simon_etal_2020.pdf">Title of presentation</a></td>
 </tr>
+
+
 
 </table>
 
