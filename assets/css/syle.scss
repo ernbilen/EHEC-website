@@ -1,4 +1,9 @@
 ---
 ---
-@import "{{ site.theme }}";
-"{{ site.theme }}" = jekyll-theme-slate
+@import "{{ 'jekyll-theme-slate' }}";
+
+
+/* Your css rules goes after this */
+.page-header {
+    background: #191c20;
+}
