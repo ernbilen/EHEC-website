@@ -1,5 +1,6 @@
 ---
 ---
 
-{{ site.theme_color | default: "#15787" }}
+
 @import "{{ site.theme }}";
+{{ site.theme_color | default: "#15787" }}
