@@ -6,7 +6,7 @@ EHEC is co-organized by Shooshan Danagoulian (fr4523@wayne.edu, @Shooshan5), Ezr
 
 EHEC is also supported by an organizing committee of:
 Orgul Ozturk (odozturk@moore.sc.edu) \\
-Catherine Maclean (catherine.maclean@temple.edu)
+Catherine Maclean (catherine.maclean@temple.edu) \\
 David Bradford (bradfowd@uga.edu)
 David Anderson (DMA34@duke.edu)
 Erkmen Aslim (easlim@tamu.edu),
