@@ -220,4 +220,4 @@ Please note that **these times are for the XX zone**.
 
 ## Support or Contact
 
-Contact EHEC by emailing [XX](mailto:XX@gmail.com) or by tweeting [@XX](https://twitter.com/XX).
+Contact EHEC by emailing [fr4523@wayn.edu](mailto:fr4523@wayne.edu) or by tweeting [@HlthEconSeminar](https://twitter.com/HlthEconSeminar).
