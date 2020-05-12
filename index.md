@@ -202,9 +202,9 @@ Please note that **these times are for the XX zone**.
 
 ## Links
 
-- [Schedule](./schedule.html)
+- [Schedule](./schedule.md)
 - [Call for Papers](./call.html)
-- [Email List](./email.html)
+- [Email List](./email.md)
 - [About](./about.html)
 
 <!--
