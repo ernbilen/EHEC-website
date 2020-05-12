@@ -2,9 +2,7 @@
 
 # Electronic Health Economics Colloquium (EHEC)
 
-## Welcome
-
-`ehealthecon.org` is the official website for Electronic Health Economics Colloquium (EHEC) which stores various information on the upcoming schedule, resources, and announcements.
+Welcome to the official website for **Electronic Health Economics Colloquium (EHEC)**.  You can find information about the schedule, view past seminars, find calls for papers,  sign up for email list, and read the seminar code of conduct.  
 
 ## About
 
@@ -14,19 +12,20 @@ The Electronic Health Economics Colloquium (EHEC) is a bi-weekly online health e
 ## Schedule
 <table width="100%" cellspacing="5" cellpadding="5">
 <tr>
-  <td colspan="4" height="40" valign="top" class="session">Date: May 4th, 2020</td>
+  <td colspan="4" height="40" valign="top" class="session">Date: May 20th, 2020</td>
 </tr>
 <tr>
-  <td colspan="2" height="40" valign="top" class="chair">Presenter: Name of presenter (institution)</td>
+  <td colspan="2" height="40" valign="top" class="chair">Presenter: Amitabh Chandra (Harvard Kennedy School)</td>
 </tr>
 <tr>
-  <td colspan="2" height="40" valign="top" class="registration"><a href="www.signmeup.com">Registration link</a></td>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_9vz8VURTR_Wmfy3v_fAQCQ">Registration link</a></td>
 </tr>
 <tr>
-  <td width="70" valign="top" class="time">10:00 am</td>
-  <td height="30" valign="top" class="paper">Title of presentation</td>
+  <td width="70" valign="top" class="time">2:30 PM EDT / 1:30 PM CDT / 11:30 AM PDT</td>
+  <td height="30" valign="top" class="paper">Choosing Unwisely: Behavioral Hazard and Patient Decision Making</td>
 </tr>
-
+<td height="50" valign="top" class="paper">Unambiguous evidence of behavioral hazard is hard to find because it may be rare, may be hard to detect in the presence of moral-hazard, and because it is possible to offer sophisticated explanations for seemingly unsophisticated behaviors. Combining machine-learning methods with data from Medicare's prescription drug benefit program, we reveal the unambiguous presence of behavioral hazard, while noting that patients also respond to incentives in sophisticated ways. Overall, we demonstrate that small reductions in drug consumption (on the order of \$100) cause mortality to increase by 42.1 percent on a base rate of 1.9 percent per year. We pinpoint groups in whom adverse outcomes from behavioral hazard are frequent: those at the highest risk of heart attack cut back on their statins, which prevent heart attacks, twice as much as low-risk patients, and go on to experience triple the mortality on the margin. We find similar patterns for other cardiovascular drugs in high-risk diabetics, and those with obstructive lung disease.  The dual presence of moral hazard and behavioral hazard implies that consumers are forward-looking and sophisticated when they respond to price increases but relatively unsophisticated about which medicines to reduce in response to price increases. We find that heuristics play a role: many beneficiaries, when faced with an increased copay or coinsurance rate, simply cut back to zero or one drug, irrespective of how many drugs they should be on. This results in larger absolute reductions in drug consumption for those on many drugs--who are also at the highest risk. Moreover, these effects are present in high- and low-income zip codes alike, making it less likely that socioeconomic factors alone drive these trends. </td>
+</tr>
   <tr style="border-bottom:1px solid black">
     <td colspan="100%"></td>
   </tr>
@@ -36,19 +35,17 @@ The Electronic Health Economics Colloquium (EHEC) is a bi-weekly online health e
 
 
 <tr>
-  <td colspan="2" height="40" valign="top" class="session">Date:</td>
+  <td colspan="2" height="40" valign="top" class="session">Date:June 3rd, 2020</td>
 </tr>
 <tr>
-  <td colspan="2" height="40" valign="top" class="chair">Presenter: </td>
+  <td colspan="2" height="40" valign="top" class="chair">Presenter: Amy Finkelstein </td>
 </tr>
 <tr>
-  <td width="70" valign="top" class="time">11:40 am</td>
-  <td height="30" valign="top" class="paper"><a href="pdfs/paper1.pdf">Title of presentation</a></td>
+  <td width="70" valign="top" class="time">2:30 PM EDT / 1:30 PM CDT / 11:30 AM PDT</td>
+  <td height="30" valign="top" class="paper"><a href="pdfs/paper1.pdf">TBA</a></td>
 </tr>
 
 </table>
-
-Please note that these times are for the **XX zone**.
 
 
 
@@ -69,7 +66,7 @@ Please note that these times are for the **XX zone**.
 
 **Registration**: [Register here](https://zoom.us/webinar/register/WN_8xeT7qlyS3WUpz9wUWrDQg)
 
-**Register for Mailing List**: [Register here](https://forms.gle/qUxCU7nkzQcfqa4M7)
+**Register for Mailing List**: [Register here](https://docs.google.com/forms/d/e/1FAIpQLSeDt2f2QulpkWzOwkDB0vLl9Kp8xdC9n5BKTQF-46w-zcxc3g/viewform)
 
 <table width="100%" cellspacing="5" cellpadding="5">
 
@@ -208,6 +205,7 @@ Please note that **these times are for the XX zone**.
 
 - [Schedule](./schedule.html)
 - [Call for Papers](./call.html)
+- [Email List] (./email.html)
 - [About](./about.html)
 
 <!--
@@ -220,4 +218,4 @@ Please note that **these times are for the XX zone**.
 
 ## Support or Contact
 
-Contact EHEC by emailing [fr4523@wayn.edu](mailto:fr4523@wayne.edu) or by tweeting [@HlthEconSeminar](https://twitter.com/HlthEconSeminar).
+Contact EHEC by emailing [fr4523@wayne.edu](mailto:fr4523@wayne.edu) or by tweeting [@HlthEconSeminar](https://twitter.com/HlthEconSeminar).
