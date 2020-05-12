@@ -24,7 +24,7 @@ All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**.
   <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_9vz8VURTR_Wmfy3v_fAQCQ">Registration link</a></td>
 </tr>
 <tr>
-  <td width="130" valign="top" class="time">2:30 PM EDT </td>
+  <td width="150" valign="top" class="time">2:30 PM EDT </td>
   <td height="30" valign="top" class="paper">Choosing Unwisely: Behavioral Hazard and Patient Decision Making</td>
 </tr>
 
@@ -39,7 +39,7 @@ All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**.
   <td colspan="2" height="40" valign="top" class="chair">Presenter: Amy Finkelstein </td>
 </tr>
 <tr>
-  <td width="130" valign="top" class="time">2:30 PM EDT</td>
+  <td width="150" valign="top" class="time">2:30 PM EDT</td>
   <td height="30" valign="top" class="paper"><a href="pdfs/paper1.pdf">TBA</a></td>
 </tr>
 
