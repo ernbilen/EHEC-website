@@ -33,10 +33,8 @@ The Electronic Health Economics Colloquium (EHEC) is a bi-weekly online health e
 
 
 
-
-
 <tr>
-  <td colspan="2" height="40" valign="top" class="session">Date:June 3rd, 2020</td>
+  <td colspan="2" height="40" valign="top" class="session">Date: June 3rd, 2020</td>
 </tr>
 <tr>
   <td colspan="2" height="40" valign="top" class="chair">Presenter: Amy Finkelstein </td>
