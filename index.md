@@ -21,7 +21,7 @@ The Electronic Health Economics Colloquium (EHEC) is a bi-weekly online health e
   <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_9vz8VURTR_Wmfy3v_fAQCQ">Registration link</a></td>
 </tr>
 <tr>
-  <td width="120" valign="top" class="time">2:30 PM EDT 1:30 PM CDT  11:30 AM PDT</td>
+  <td width="130" valign="top" class="time">2:30 PM EDT 1:30 PM CDT  11:30 AM PDT</td>
   <td height="30" valign="top" class="paper">Choosing Unwisely: Behavioral Hazard and Patient Decision Making</td>
 </tr>
 
@@ -36,7 +36,7 @@ The Electronic Health Economics Colloquium (EHEC) is a bi-weekly online health e
   <td colspan="2" height="40" valign="top" class="chair">Presenter: Amy Finkelstein </td>
 </tr>
 <tr>
-  <td width="120" valign="top" class="time">2:30 PM EDT 1:30 PM CDT  11:30 AM PDT</td></td></td>
+  <td width="130" valign="top" class="time">2:30 PM EDT 1:30 PM CDT  11:30 AM PDT</td></td></td>
   <td height="30" valign="top" class="paper"><a href="pdfs/paper1.pdf">TBA</a></td>
 </tr>
 
