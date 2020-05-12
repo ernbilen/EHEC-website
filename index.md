@@ -204,7 +204,7 @@ Please note that **these times are for the XX zone**.
 
 - [Schedule](./schedule.html)
 - [Call for Papers](./call.html)
-- [Email List] (./email.html)
+- [Email List](./email.html)
 - [About](./about.html)
 
 <!--
