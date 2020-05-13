@@ -6,7 +6,7 @@ EHEC is co-organized by \\
 Shooshan Danagoulian <img src="https://img.icons8.com/color/26/000000/twitter.png"/>[@Shooshan5](https://twitter.com/Shooshan5)\\
 Ezra Golberstein <img src="https://img.icons8.com/color/26/000000/twitter.png"/>[@EGolberstein](https://twitter.com/EGolberstein) \\
 Sayeh Nikpay <img src="https://img.icons8.com/color/26/000000/twitter.png"/>[@SayNikpay](https://twitter.com/SayNikpay) \\
-David Slusky <img src="https://img.icons8.com/color/26/000000/twitter.png"/>[@DavidSlusky](https://twitter.com/DavidSlusky) 
+David Slusky <img src="https://img.icons8.com/color/26/000000/twitter.png"/>[@DavidSlusky](https://twitter.com/DavidSlusky)  \\
 
 EHEC is also supported by an organizing committee of: \\
 Orgul Ozturk  \\
@@ -24,6 +24,6 @@ Sebastian Tello-Trillo \\
 Laura Wherry \\
 Bradley Shapiro \\
 Christian Kronborg \\ 
-Willa Friedman
+Willa Friedman \\
 
 <!-- <img src="https://img.icons8.com/color/26/000000/twitter.png"/> -->
