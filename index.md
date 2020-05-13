@@ -31,9 +31,7 @@ All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**.
   <tr style="border-bottom:1px solid black">
     <td colspan="100%"></td>
   </tr>
-    <tr style="border-bottom:1px solid black">
-    <td colspan="100%"></td>
-  </tr>
+
 
 <tr>
   <td colspan="2" height="40" valign="top" class="session">Date: June 3rd, 2020</td>
