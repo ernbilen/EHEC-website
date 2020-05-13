@@ -1,22 +1,23 @@
 ## Schedule
 
-Here is information on the schedule.
+The schedule is updated regularly as new seminars are added to the series.
+All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
 
 
 
 <table width="100%" cellspacing="5" cellpadding="5">
 <tr>
-  <td colspan="4" height="40" valign="top" class="session">Date: May 4th, 2020</td>
+  <td colspan="4" height="40" valign="top" class="session">Date: April 22, 2020</td>
 </tr>
 <tr>
-  <td colspan="2" height="40" valign="top" class="chair">Presenter: Name of presenter (institution)</td>
+  <td colspan="2" height="40" valign="top" class="chair">Presenter: Kosali Simon (Indiana University)</td>
 </tr>
 <tr>
-  <td colspan="2" height="40" valign="top" class="registration"><a href="www.signmeup.com">Registration link</a></td>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_uxmfdL9eSJW2USOpJ4dW1Q">Registration link</a></td>
 </tr>
 <tr>
-  <td width="70" valign="top" class="time">10:00 am</td>
-  <td height="30" valign="top" class="paper">Title of presentation</td>
+  <td width="70" valign="top" class="time">2:30 PM EDT </td>
+  <td height="30" valign="top" class="paper"><a href="pdfs/Simon_etal_2020.pdf">Tracking Public and Private Responses to the COVID-19 Epidemic</td>
 </tr>
 
   <tr style="border-bottom:1px solid black">
@@ -28,21 +29,49 @@ Here is information on the schedule.
 
 
 <tr>
-  <td colspan="2" height="40" valign="top" class="session">Date:</td>
+  <td colspan="2" height="40" valign="top" class="session">Date: May 6, 2020</td>
 </tr>
 <tr>
-  <td colspan="2" height="40" valign="top" class="chair">Presenter: </td>
+  <td colspan="2" height="40" valign="top" class="chair">Presenter: Jonathan Gruber (Massachusetts Institute of Technology)</td>
 </tr>
 <tr>
-  <td width="70" valign="top" class="time">11:40 am</td>
-  <td height="30" valign="top" class="paper"><a href="pdfs/Simon_etal_2020.pdf">Title of presentation</a></td>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_-YemuzfGRDSqoBRYtrYqfQ">Registration link</a></td>
+</tr>
+<tr>
+  <td width="70" valign="top" class="time">2:30 PM EDT</td>
+  <td height="30" valign="top" class="paper"><a href="pdfs/Gruber_etal_2020.pdf">Managing Intelligence: Skilled Experts and AI in Markets for Complex Products</a></td>
 </tr>
 
 
+<tr>
+  <td colspan="2" height="40" valign="top" class="session">Date: May 20, 2020</td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="chair">Presenter: Amitabh Chandra (Harvard Kennedy School)</td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_9vz8VURTR_Wmfy3v_fAQCQ">Registration link</a></td>
+</tr>
+<tr>
+  <td width="70" valign="top" class="time">2:30 PM EDT</td>
+  <td height="30" valign="top" class="paper"><!--a href="pdfs/Gruber_etal_2020.pdf"-->Choosing Unwisely: Behavioral Hazard and Patient Decision Making</a></td>
+</tr>
 
+
+<tr>
+  <td colspan="2" height="40" valign="top" class="session">Date: JUne 3, 2020</td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="chair">Presenter: Amy Finkelstein (Massachusetts Institute of Technolog)</td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="registration"><!--a href="https://umn.zoom.us/webinar/register/WN_9vz8VURTR_Wmfy3v_fAQCQ"-->Registration link</a></td>
+</tr>
+<tr>
+  <td width="70" valign="top" class="time">2:30 PM EDT</td>
+  <td height="30" valign="top" class="paper"><!--a href="pdfs/Gruber_etal_2020.pdf"-->TBA</a></td>
+</tr>
 </table>
 
 
 
-
-Please note that these times are for the **XX zone**.
