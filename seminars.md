@@ -34,7 +34,7 @@ You can find a list of past seminars with a link to the paper presented and a vi
   <td colspan="2" height="40" valign="top" class="chair">Presenter: Jonathan Gruber (Massachusetts Institute of Technology)</td>
 </tr>
 <tr>
-  <td colspan="2" height="40" valign="top" class="registration"><a href="https://youtu.be/DJ_LZ_0F410">Video</a></td>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="https://youtu.be/95E201M63lE">Video</a></td>
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT </td>
