@@ -39,8 +39,5 @@ You can find a list of past seminars with a link to the paper presented and a vi
   <td width="150" valign="top" class="time">2:30 PM EDT </td>
   <td height="30" valign="top" class="paper"><a href="pdfs/Gruber_etal_2020.pdf">Managing Intelligence: Skilled Experts and AI in Markets for Complex Products</a></td>
 </tr>
-
-
-
 </table>
 
