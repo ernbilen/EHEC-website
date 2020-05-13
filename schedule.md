@@ -15,8 +15,7 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT </td>
-  <td height="30" valign="top" class="paper"><a href="pdfs/Simon_etal_2020.pdf">Tracking Public and Private Responses to the COVID-19 Epidemic</td>
-</tr>
+  <td height="30" valign="top" class="paper"><a href="pdfs/Simon_etal_2020.pdf">Tracking Public and Private Responses to the COVID-19 Epidemic
 
   <tr style="border-bottom:1px solid black">
     <td colspan="100%"></td>
