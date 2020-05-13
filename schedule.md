@@ -59,7 +59,7 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
 
 
 <tr>
-  <td colspan="2" height="40" valign="top" class="session">Date: JUne 3, 2020</td>
+  <td colspan="2" height="40" valign="top" class="session">Date: June 3, 2020</td>
 </tr>
 <tr>
   <td colspan="2" height="40" valign="top" class="chair">Presenter: Amy Finkelstein (Massachusetts Institute of Technolog)</td>
