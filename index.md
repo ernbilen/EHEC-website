@@ -21,7 +21,7 @@ All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**.
   <td colspan="2" height="40" valign="top" class="chair">Presenter: Amitabh Chandra (Harvard Kennedy School)</td>
 </tr>
 <tr>
-  <td colspan="2" height="40" valign="top" class="registration"><a  target="_blank" href="https://umn.zoom.us/webinar/register/WN_9vz8VURTR_Wmfy3v_fAQCQ">Registration link</a></td>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_9vz8VURTR_Wmfy3v_fAQCQ">Registration link</a></td>
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT </td>
