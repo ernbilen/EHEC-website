@@ -24,7 +24,7 @@ Kosali Simon  \\
 Sebastian Tello-Trillo \\
 Laura Wherry \\
 Bradley Shapiro \\
-Christian Kronborg \\ 
+Christian Kronborg \\
 Willa Friedman
 
 <!-- <img src="https://img.icons8.com/color/26/000000/twitter.png"/> -->
