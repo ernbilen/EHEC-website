@@ -5,7 +5,10 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
 
 <table width="100%" cellspacing="5" cellpadding="5">
   
-<tr> <! –– copy here ––>
+  
+  
+  
+<tr> 
   <td colspan="4" height="40" valign="top" class="session">Date: April 22, 2020</td>
 </tr>
 <tr>
@@ -23,10 +26,11 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
     <td colspan="100%"></td>
   </tr>
 
-<! –– end copy here ––>
 
 
-<! –– copy here ––> 
+
+
+
 
 <tr>
   <td colspan="2" height="40" valign="top" class="session">Date: May 6, 2020</td>
@@ -46,7 +50,11 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
     <td colspan="100%"></td>
   </tr>
   
-<! –– end copy here ––>  
+
+
+
+
+
   
 <tr>
   <td colspan="2" height="40" valign="top" class="session">Date: May 20, 2020</td>
@@ -66,9 +74,11 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
     <td colspan="100%"></td>
   </tr>
 
-<! –– end copy here ––>
 
-<! –– copy here ––>
+
+
+
+
 
 <tr>
   <td colspan="2" height="40" valign="top" class="session">Date: June 3, 2020</td>
