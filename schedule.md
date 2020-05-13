@@ -50,7 +50,7 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT </td>
-  <td height="30" valign="top" class="paper">Choosing Unwisely: Behavioral Hazard and Patient Decision Making</a></td>
+  <td height="30" valign="top" class="paper">Choosing Unwisely: Behavioral Hazard and Patient Decision Making</td>
 </tr>
 
   <tr style="border-bottom:1px solid black">
@@ -64,11 +64,11 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
   <td colspan="2" height="40" valign="top" class="chair">Presenter: Amy Finkelstein (Massachusetts Institute of Technolog)</td>
 </tr>
 <tr>
-  <td colspan="2" height="40" valign="top" class="registration">Registration link</a></td>
+  <td colspan="2" height="40" valign="top" class="registration">Registration link</td>
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT </td>
-  <td height="30" valign="top" class="paper">TBA</a></td>
+  <td height="30" valign="top" class="paper">TBA</td>
 </tr>
 
 
