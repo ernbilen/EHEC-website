@@ -5,7 +5,7 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
 
 <table width="100%" cellspacing="5" cellpadding="5">
 <tr>
-  <td colspan="4" height="40" valign="top" class="session">Date: April 22, 2020</td>
+  <td colspan="4" height="40" valign="top" class="session">Date: April 22, 20200</td>
 </tr>
 <tr>
   <td colspan="2" height="40" valign="top" class="chair">Presenter: Kosali Simon (Indiana University)</td>
