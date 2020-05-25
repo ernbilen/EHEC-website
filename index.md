@@ -15,7 +15,7 @@ All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**.
 
 <table width="100%" cellspacing="5" cellpadding="5">
 <tr>
-  <td colspan="4" height="40" valign="top" class="session">Date: June 3, 2020</td>
+  <td colspan="4" height="40" valign="top" class="session"><strong>Date: June 3, 2020</strong></td>
 </tr>
 <tr>
   <td colspan="2" height="40" valign="top" class="chair">Presenter: Amy Finkelstein (Massachusetts Institute of Technology) </td>
@@ -34,7 +34,7 @@ All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**.
 
 
 <tr>
-  <td colspan="2" height="40" valign="top" class="session">Date: June 17, 2020</td>
+  <td colspan="2" height="40" valign="top" class="session"><strong>Date: June 17, 2020</strong></td>
 </tr>
 <tr>
   <td colspan="2" height="40" valign="top" class="chair">Presenter: TBD </td>
