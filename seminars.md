@@ -28,7 +28,7 @@ You can find a list of past seminars with a link to the paper presented and a vi
 
 
 <tr>
-  <td colspan="2" height="40" valign="top" class="session">**Date: May 6, 2020**</td>
+  <td colspan="2" height="40" valign="top" class="session"><strong>Date: May 6, 2020</strong></td>
 </tr>
 <tr>
   <td colspan="2" height="40" valign="top" class="chair">Presenter: Jonathan Gruber (Massachusetts Institute of Technology)</td>
