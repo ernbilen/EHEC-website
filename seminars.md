@@ -40,5 +40,29 @@ You can find a list of past seminars with a link to the paper presented and a vi
   <td width="150" valign="top" class="time">2:30 PM EDT </td>
   <td height="30" valign="top" class="paper"><a href="pdfs/Gruber_etal_2020.pdf">Managing Intelligence: Skilled Experts and AI in Markets for Complex Products</a></td>
 </tr>
+
+ <tr style="border-bottom:1px solid black">
+    <td colspan="100%"></td>
+  </tr>
+
+
+
+
+
+
+<tr>
+  <td colspan="2" height="40" valign="top" class="session">Date: May 20, 2020</td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="chair">Presenter: Amitabh Chandra (Harvard Kennedy School)</td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="registration">No Video Available</a></td>
+</tr>
+<tr>
+  <td width="150" valign="top" class="time">2:30 PM EDT </td>
+  <td height="30" valign="top" class="paper">Choosing Unwisely: Behavioral Hazard and Patient Decision Making</a></td>
+</tr>
+
 </table>
 
