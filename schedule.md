@@ -75,11 +75,6 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
   </tr>
 
 
-
-
-
-
-
 <tr>
   <td colspan="2" height="40" valign="top" class="session">Date: June 3, 2020</td>
 </tr>
@@ -87,13 +82,126 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
   <td colspan="2" height="40" valign="top" class="chair">Presenter: Amy Finkelstein (Massachusetts Institute of Technology)</td>
 </tr>
 <tr>
-  <td colspan="2" height="40" valign="top" class="registration">Registration link</td>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_UvhUQBHwQvCLYkk_w6mwvg">Registration link</a></td>
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT </td>
-  <td height="30" valign="top" class="paper">TBA</td>
+  <td height="30" valign="top" class="paper">Voluntary Regulation: Evidence from Medicare Payment Reform</td>
 </tr>
 
+ <tr style="border-bottom:1px solid black">
+    <td colspan="100%"></td>
+  </tr>
+  
+  
+<tr>
+  <td colspan="2" height="40" valign="top" class="session">Date: June 17, 2020</td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="chair">Presenter: TBD</td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="">Registration link</a></td>
+</tr>
+<tr>
+  <td width="150" valign="top" class="time">2:30 PM EDT </td>
+  <td height="30" valign="top" class="paper">TBD</td>
+</tr>
+
+ <tr style="border-bottom:1px solid black">
+    <td colspan="100%"></td>
+  </tr>
+  
+  
+<tr>
+  <td colspan="2" height="40" valign="top" class="session">Date: July 1, 2020</td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="chair">Presenter: TBD</td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="">Registration link</a></td>
+</tr>
+<tr>
+  <td width="150" valign="top" class="time">2:30 PM EDT </td>
+  <td height="30" valign="top" class="paper">TBD</td>
+</tr>
+
+ <tr style="border-bottom:1px solid black">
+    <td colspan="100%"></td>
+  </tr>
+  
+  
+<tr>
+  <td colspan="2" height="40" valign="top" class="session">Date: July 15, 2020</td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="chair">Presenter: TBD</td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="">Registration link</a></td>
+</tr>
+<tr>
+  <td width="150" valign="top" class="time">2:30 PM EDT </td>
+  <td height="30" valign="top" class="paper">TBD</td>
+</tr>
+
+ <tr style="border-bottom:1px solid black">
+    <td colspan="100%"></td>
+  </tr>
+  
+  
+<tr>
+  <td colspan="2" height="40" valign="top" class="session">Date: July 29, 2020</td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="chair">Presenter: TBD</td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="">Registration link</a></td>
+</tr>
+<tr>
+  <td width="150" valign="top" class="time">2:30 PM EDT </td>
+  <td height="30" valign="top" class="paper">TBD</td>
+</tr>
+
+ <tr style="border-bottom:1px solid black">
+    <td colspan="100%"></td>
+  </tr>
+  
+  
+<tr>
+  <td colspan="2" height="40" valign="top" class="session">Date: August 12, 2020</td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="chair">Presenter: TBD</td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="">Registration link</a></td>
+</tr>
+<tr>
+  <td width="150" valign="top" class="time">2:30 PM EDT </td>
+  <td height="30" valign="top" class="paper">TBD</td>
+</tr>
+
+ <tr style="border-bottom:1px solid black">
+    <td colspan="100%"></td>
+  </tr>
+  
+  
+<tr>
+  <td colspan="2" height="40" valign="top" class="session">Date: August 26, 2020</td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="chair">Presenter: TBD</td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="">Registration link</a></td>
+</tr>
+<tr>
+  <td width="150" valign="top" class="time">2:30 PM EDT </td>
+  <td height="30" valign="top" class="paper">TBD</td>
+</tr>
 
 </table>
 
