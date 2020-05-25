@@ -57,11 +57,11 @@ You can find a list of past seminars with a link to the paper presented and a vi
   <td colspan="2" height="40" valign="top" class="chair">Presenter: Amitabh Chandra (Harvard Kennedy School)</td>
 </tr>
 <tr>
-  <td colspan="2" height="40" valign="top" class="registration">No Video Available</a></td>
+  <td colspan="2" height="40" valign="top" class="registration">No Video Available</td>
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT </td>
-  <td height="30" valign="top" class="paper">Choosing Unwisely: Behavioral Hazard and Patient Decision Making</a></td>
+  <td height="30" valign="top" class="paper">Choosing Unwisely: Behavioral Hazard and Patient Decision Making</td>
 </tr>
 
 </table>
