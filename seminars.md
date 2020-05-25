@@ -5,7 +5,7 @@ You can find a list of past seminars with a link to the paper presented and a vi
 
 <table width="100%" cellspacing="5" cellpadding="5">
 <tr>
-  <td colspan="4" height="40" valign="top" class="session">Date: April 22, 2020</td>
+  <td colspan="4" height="40" valign="top" class="session"><strong>Date: April 22, 2020</strong></td>
 </tr>
 <tr>
   <td colspan="2" height="40" valign="top" class="chair">Presenter: Kosali Simon (Indiana University)</td>
@@ -51,7 +51,7 @@ You can find a list of past seminars with a link to the paper presented and a vi
 
 
 <tr>
-  <td colspan="2" height="40" valign="top" class="session">Date: May 20, 2020</td>
+  <td colspan="2" height="40" valign="top" class="session"><strong>Date: May 20, 2020</strong></td>
 </tr>
 <tr>
   <td colspan="2" height="40" valign="top" class="chair">Presenter: Amitabh Chandra (Harvard Kennedy School)</td>
