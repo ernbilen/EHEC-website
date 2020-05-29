@@ -60,21 +60,6 @@ All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**.
   <td height="30" valign="top" class="paper"><a href="pdfs/paper1.pdf">"Why Don’t We Sleep Enough? A Field Experiment Among College Students" (with Mallory Avery and Peiran Jiao)</a></td>
 </tr>
 
-  <tr style="border-bottom:1px solid black">
-    <td colspan="100%"></td>
-  </tr>
-
-
-<tr>
-  <td colspan="2" height="40" valign="top" class="session"><strong>Date: June 17, 2020</strong></td>
-</tr>
-<tr>
-  <td colspan="2" height="40" valign="top" class="chair">Presenter: TBD </td>
-</tr>
-<tr>
-  <td width="150" valign="top" class="time">2:30 PM EDT</td>
-  <td height="30" valign="top" class="paper"><a href="pdfs/paper1.pdf">TBA</a></td>
-</tr>
 
   <tr style="border-bottom:1px solid black">
     <td colspan="100%"></td>
