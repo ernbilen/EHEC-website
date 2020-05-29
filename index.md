@@ -40,6 +40,9 @@ All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**.
   <td colspan="2" height="40" valign="top" class="chair">Presenter: Maya Rossin-Slater (Stanford University)</td>
 </tr>
 <tr>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_UvhUQBHwQvCLYkk_w6mwvg">Registration link</a></td>
+</tr>
+<tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
   <td height="30" valign="top" class="paper"><a href="pdfs/paper1.pdf">"Family Spillover Effects of Misdiagnosis: The Case of ADHD" (with Petra Persson and Xinyao Qiu)</a></td>
 </tr>
@@ -54,6 +57,9 @@ All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**.
 </tr>
 <tr>
   <td colspan="2" height="40" valign="top" class="chair">Presenter: Osea Giuntella (University of Pittsburgh)</td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_UvhUQBHwQvCLYkk_w6mwvg">Registration link</a></td>
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
@@ -73,6 +79,9 @@ All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**.
   <td colspan="2" height="40" valign="top" class="chair">Presenter: Alex Hollingsworth (Indiana University) </td>
 </tr>
 <tr>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_UvhUQBHwQvCLYkk_w6mwvg">Registration link</a></td>
+</tr>
+<tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
   <td height="30" valign="top" class="paper"><a href="pdfs/paper1.pdf">"Tactics for design and inference in synthetic control studies: An applied example using high-dimensional data" (with Coady Wing)</a></td>
 </tr>
@@ -88,6 +97,9 @@ All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**.
 </tr>
 <tr>
   <td colspan="2" height="40" valign="top" class="chair">Presenter: Caitlin Carroll (University of Minnesota) </td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_UvhUQBHwQvCLYkk_w6mwvg">Registration link</a></td>
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
@@ -106,6 +118,9 @@ All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**.
   <td colspan="2" height="40" valign="top" class="chair">Presenter: Ashvin Gandhi (University of California, Los Angeles) </td>
 </tr>
 <tr>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_UvhUQBHwQvCLYkk_w6mwvg">Registration link</a></td>
+</tr>
+<tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
   <td height="30" valign="top" class="paper"><a href="pdfs/paper1.pdf">"Picking Your Patients: Selective Admissions in the Nursing Home Industry"</a></td>
 </tr>
@@ -120,6 +135,9 @@ All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**.
 </tr>
 <tr>
   <td colspan="2" height="40" valign="top" class="chair">Presenter: Adelina Wang (National Bureau of Economic Research) </td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_UvhUQBHwQvCLYkk_w6mwvg">Registration link</a></td>
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
