@@ -89,7 +89,7 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
   <td height="30" valign="top" class="paper"><a href="https://www.nber.org/papers/w27223">Voluntary Regulation: Evidence from Medicare Payment Reform</a></td>
 </tr>
 
-   <tr style="border-bottom:1px solid black">
+  <tr style="border-bottom:1px solid black">
     <td colspan="100%"></td>
   </tr>
 
@@ -101,7 +101,7 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
   <td colspan="2" height="40" valign="top" class="chair">Presenter: Maya Rossin-Slater (Stanford University)</td>
 </tr>
 <tr>
-  <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_UvhUQBHwQvCLYkk_w6mwvg">Registration link</a></td>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_rYJJhtjBSVqxUyCd_WQD5Q">Registration link</a></td>
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
@@ -120,7 +120,7 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
   <td colspan="2" height="40" valign="top" class="chair">Presenter: Osea Giuntella (University of Pittsburgh)</td>
 </tr>
 <tr>
-  <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_UvhUQBHwQvCLYkk_w6mwvg">Registration link</a></td>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN__8ifIKPiQiyIKQyX5ifgIg">Registration link</a></td>
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
@@ -140,7 +140,7 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
   <td colspan="2" height="40" valign="top" class="chair">Presenter: Alex Hollingsworth (Indiana University) </td>
 </tr>
 <tr>
-  <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_UvhUQBHwQvCLYkk_w6mwvg">Registration link</a></td>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_t0IUxXAfRFewKkKfTn1Y-w">Registration link</a></td>
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
@@ -160,7 +160,7 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
   <td colspan="2" height="40" valign="top" class="chair">Presenter: Caitlin Carroll (University of Minnesota) </td>
 </tr>
 <tr>
-  <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_UvhUQBHwQvCLYkk_w6mwvg">Registration link</a></td>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_HzZ94hciTUGLHrI3AmNXMA">Registration link</a></td>
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
@@ -179,7 +179,7 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
   <td colspan="2" height="40" valign="top" class="chair">Presenter: Ashvin Gandhi (University of California, Los Angeles) </td>
 </tr>
 <tr>
-  <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_UvhUQBHwQvCLYkk_w6mwvg">Registration link</a></td>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_z1WSfcmWTi6o5YR7BTLuAA">Registration link</a></td>
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
@@ -198,7 +198,7 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
   <td colspan="2" height="40" valign="top" class="chair">Presenter: Adelina Wang (National Bureau of Economic Research) </td>
 </tr>
 <tr>
-  <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_UvhUQBHwQvCLYkk_w6mwvg">Registration link</a></td>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_92T51VVdQKqsBJETEWyJ6g">Registration link</a></td>
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
