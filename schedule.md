@@ -105,14 +105,31 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
-  <td height="30" valign="top" class="paper"><a href="pdfs/paper1.pdf">"Family Spillover Effects of Misdiagnosis: The Case of ADHD" (with Petra Persson and Xinyao Qiu)</a></td>
+  <td height="30" valign="top" class="paper">"Family Spillover Effects of Misdiagnosis: The Case of ADHD" (with Petra Persson and Xinyao Qiu)</td>
 </tr>
 
   <tr style="border-bottom:1px solid black">
     <td colspan="100%"></td>
   </tr>
 
+<tr>
+  <td colspan="2" height="40" valign="top" class="session"><strong>Date: June 24, 2020</strong></td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="chair"><strong>Special Event</strong>: Cellular Device Location Data:  What, Where, and How? </td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="https://forms.gle/mDUL4kL1tCcXHTTq7">Registration link</a></td>
+</tr>
+<tr>
+  <td width="150" valign="top" class="time">2:30 PM EDT</td>
+  <td height="30" valign="top" class="paper"><a href="pdfs/Cell_Data_EHEC.png">More Info</a></td>
+</tr>
 
+  <tr style="border-bottom:1px solid black">
+    <td colspan="100%"></td>
+  </tr>
+  
 <tr>
   <td colspan="2" height="40" valign="top" class="session"><strong>Date: July 1, 2020</strong></td>
 </tr>
@@ -124,7 +141,8 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
-  <td height="30" valign="top" class="paper"><a href="pdfs/paper1.pdf">"Why Don’t We Sleep Enough? A Field Experiment Among College Students" (with Mallory Avery and Peiran Jiao)</a></td>
+ <!-- <td height="30" valign="top" class="paper"><a href="pdfs/paper1.pdf">"Why Don’t We Sleep Enough? A Field Experiment Among College Students" (with Mallory Avery and Peiran Jiao)</a></td> -->
+ <td height="30" valign="top" class="paper">"Why Don’t We Sleep Enough? A Field Experiment Among College Students" (with Mallory Avery and Peiran Jiao)</td>
 </tr>
 
 
@@ -144,7 +162,8 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
-  <td height="30" valign="top" class="paper"><a href="pdfs/paper1.pdf">"Tactics for design and inference in synthetic control studies: An applied example using high-dimensional data" (with Coady Wing)</a></td>
+  <!--  <td height="30" valign="top" class="paper"><a href="pdfs/paper1.pdf">"Tactics for design and inference in synthetic control studies: An applied example using high-dimensional data" (with Coady Wing)</a></td> -->
+  <td height="30" valign="top" class="paper">"Tactics for design and inference in synthetic control studies: An applied example using high-dimensional data" (with Coady Wing)</td>
 </tr>
 
 
@@ -164,7 +183,8 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
-  <td height="30" valign="top" class="paper"><a href="pdfs/paper1.pdf">"Physician Response to Malpractice Allegations: Evidence from Florida Emergency Departments" (with David Cutler and Anupam Jena)</a></td>
+  <!--  <td height="30" valign="top" class="paper"><a href="pdfs/paper1.pdf">"Physician Response to Malpractice Allegations: Evidence from Florida Emergency Departments" (with David Cutler and Anupam Jena)</a></td> -->
+  <td height="30" valign="top" class="paper">"Physician Response to Malpractice Allegations: Evidence from Florida Emergency Departments" (with David Cutler and Anupam Jena)</td> 
 </tr>
 
   <tr style="border-bottom:1px solid black">
@@ -183,7 +203,8 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
-  <td height="30" valign="top" class="paper"><a href="pdfs/paper1.pdf">"Picking Your Patients: Selective Admissions in the Nursing Home Industry"</a></td>
+ <!--   <td height="30" valign="top" class="paper"><a href="pdfs/paper1.pdf">"Picking Your Patients: Selective Admissions in the Nursing Home Industry"</a></td> -->
+  <td height="30" valign="top" class="paper">"Picking Your Patients: Selective Admissions in the Nursing Home Industry"</td>
 </tr>
 
   <tr style="border-bottom:1px solid black">
@@ -202,8 +223,10 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
-  <td height="30" valign="top" class="paper"><a href="pdfs/paper1.pdf">"The Impact of Alternative Types of Post-Acute Medical Care: Stratified IV Analysis with Machine Learning Using Nursing Home Exits"</a></td>
+ <!--   <td height="30" valign="top" class="paper"><a href="pdfs/paper1.pdf">"The Impact of Alternative Types of Post-Acute Medical Care: Stratified IV Analysis with Machine Learning Using Nursing Home Exits"</a></td> -->
+  <td height="30" valign="top" class="paper">"The Impact of Alternative Types of Post-Acute Medical Care: Stratified IV Analysis with Machine Learning Using Nursing Home Exits"</td>
 </tr>
+
 </table>
 
 
