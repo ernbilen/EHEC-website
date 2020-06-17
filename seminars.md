@@ -64,5 +64,23 @@ You can find a list of past seminars with a link to the paper presented and a vi
   <td height="30" valign="top" class="paper">Choosing Unwisely: Behavioral Hazard and Patient Decision Making</td>
 </tr>
 
+<tr>
+  <td colspan="2" height="40" valign="top" class="session"><strong>Date: June 3, 2020</strong></td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="chair">Presenter: Amy Finkelstein (Massachusetts Institute of Technology)</td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="https://youtu.be/3yrDRINRkVE">Video</a></td>
+</tr>
+<tr>
+  <td width="150" valign="top" class="time">2:30 PM EDT </td>
+  <td height="30" valign="top" class="paper"><a href="pdfs/Einav_etal_2020.pdf">Voluntary Regulation: Evidence from Medicare Payment Reform</a></td>
+</tr>
+
+  <tr style="border-bottom:1px solid black">
+    <td colspan="100%"></td>
+  </tr>
+  
 </table>
 
