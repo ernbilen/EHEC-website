@@ -141,8 +141,8 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
- <!-- <td height="30" valign="top" class="paper"><a href="pdfs/paper1.pdf">"Why Don’t We Sleep Enough? A Field Experiment Among College Students" (with Mallory Avery and Peiran Jiao)</a></td> -->
- <td height="30" valign="top" class="paper">"Why Don’t We Sleep Enough? A Field Experiment Among College Students" (with Mallory Avery and Peiran Jiao)</td>
+ <td height="30" valign="top" class="paper"><a href="pdfs/Giuntella_etal_2020.pdf">"Why Don’t We Sleep Enough? A Field Experiment Among College Students" (with Mallory Avery and Peiran Jiao)</a></td> 
+ <!-- <td height="30" valign="top" class="paper">"Why Don’t We Sleep Enough? A Field Experiment Among College Students" (with Mallory Avery and Peiran Jiao)</td> -->
 </tr>
 
 
