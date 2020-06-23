@@ -14,23 +14,7 @@ The Electronic Health Economics Colloquium (EHEC) is a bi-weekly online health e
 All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**. 
 
 <table width="100%" cellspacing="5" cellpadding="5">
-<tr>
-  <td colspan="2" height="40" valign="top" class="session"><strong>Date: June 17, 2020</strong></td>
-</tr>
-<tr>
-  <td colspan="2" height="40" valign="top" class="chair">Presenter: Maya Rossin-Slater (Stanford University)</td>
-</tr>
-<tr>
-  <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_rYJJhtjBSVqxUyCd_WQD5Q">Registration link</a></td>
-</tr>
-<tr>
-  <td width="150" valign="top" class="time">2:30 PM EDT</td>
-  <td height="30" valign="top" class="paper">"Family Spillover Effects of Misdiagnosis: The Case of ADHD" (with Petra Persson and Xinyao Qiu)</td>
-</tr>
 
-  <tr style="border-bottom:1px solid black">
-    <td colspan="100%"></td>
-  </tr>
 
 <tr>
   <td colspan="2" height="40" valign="top" class="session"><strong>Date: June 24, 2020</strong></td>
