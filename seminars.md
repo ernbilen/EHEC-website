@@ -82,5 +82,24 @@ You can find a list of past seminars with a link to the paper presented and a vi
     <td colspan="100%"></td>
   </tr>
   
+  
+  <tr>
+  <td colspan="2" height="40" valign="top" class="session"><strong>Date: June 17, 2020</strong></td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="chair">Presenter: Maya Rossin-Slater (Stanford University)</td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="https://youtu.be/3yrDRINRkVE">Video link</a></td>
+</tr>
+<tr>
+  <td width="150" valign="top" class="time">2:30 PM EDT</td>
+  <td height="30" valign="top" class="paper">"Family Spillover Effects of Misdiagnosis: The Case of ADHD" (with Petra Persson and Xinyao Qiu)</td>
+</tr>
+
+  <tr style="border-bottom:1px solid black">
+    <td colspan="100%"></td>
+  </tr>
+  
 </table>
 
