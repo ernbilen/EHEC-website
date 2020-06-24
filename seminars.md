@@ -123,7 +123,7 @@ You can find a list of past seminars with a link to the paper presented and a vi
   <td colspan="2" height="40" valign="top" class="registration"><a href="https://www.safegraph.com/blog/what-about-bias-in-the-safegraph-dataset">SafeGraph Sampling Bias Info</a></td>
 </tr>
 <tr>
-  <td colspan="2" height="40" valign="top" class="registration"><a href="https://docs.google.com/document/d/1k_9LGQn95P5gHsSeuBdzgtEWGGCmzXdcOkcphWi0Cas/edit)">SafeGraph Small Sample Info</a></td>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="https://docs.google.com/document/d/1k_9LGQn95P5gHsSeuBdzgtEWGGCmzXdcOkcphWi0Cas/edit">SafeGraph Small Sample Info</a></td>
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
