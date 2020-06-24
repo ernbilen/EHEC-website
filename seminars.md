@@ -101,5 +101,36 @@ You can find a list of past seminars with a link to the paper presented and a vi
     <td colspan="100%"></td>
   </tr>
   
+  <tr>
+  <td colspan="2" height="40" valign="top" class="session"><strong>Date: June 24, 2020</strong></td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="chair"><strong>Special Event</strong>: Cellular Device Location Data:  What, Where, and How? </td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="https://forms.gle/mDUL4kL1tCcXHTTq7">Video link</a></td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="pdfs/meeting_saved_chat.txt">Chat Transcript</a></td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="pdfs/slides.ppt">PlaceIQ Slides</a></td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="https://www.safegraph.com/blog/what-about-bias-in-the-safegraph-dataset">SafeGraph Sampling Bias Info</a></td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="https://docs.google.com/document/d/1k_9LGQn95P5gHsSeuBdzgtEWGGCmzXdcOkcphWi0Cas/edit)">SafeGraph Small Sample Info</a></td>
+</tr>
+<tr>
+  <td width="150" valign="top" class="time">2:30 PM EDT</td>
+  <td height="30" valign="top" class="paper"><a href="pdfs/Cell_Data_EHEC.png">More Info</a></td>
+</tr>
+
+  <tr style="border-bottom:1px solid black">
+    <td colspan="100%"></td>
+  </tr>
+  
+  
 </table>
 
