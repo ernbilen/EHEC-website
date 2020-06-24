@@ -16,24 +16,7 @@ All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**.
 <table width="100%" cellspacing="5" cellpadding="5">
 
 
-<tr>
-  <td colspan="2" height="40" valign="top" class="session"><strong>Date: June 24, 2020</strong></td>
-</tr>
-<tr>
-  <td colspan="2" height="40" valign="top" class="chair"><strong>Special Event</strong>: Cellular Device Location Data:  What, Where, and How? </td>
-</tr>
-<tr>
-  <td colspan="2" height="40" valign="top" class="registration"><a href="https://forms.gle/mDUL4kL1tCcXHTTq7">Registration link</a></td>
-</tr>
-<tr>
-  <td width="150" valign="top" class="time">2:30 PM EDT</td>
-  <td height="30" valign="top" class="paper"><a href="pdfs/Cell_Data_EHEC.png">More Info</a></td>
-</tr>
-
-  <tr style="border-bottom:1px solid black">
-    <td colspan="100%"></td>
-  </tr>
-  
+ 
 <tr>
   <td colspan="2" height="40" valign="top" class="session"><strong>Date: July 1, 2020</strong></td>
 </tr>
