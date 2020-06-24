@@ -108,6 +108,9 @@ You can find a list of past seminars with a link to the paper presented and a vi
   <td colspan="2" height="40" valign="top" class="chair"><strong>Special Event</strong>: Cellular Device Location Data:  What, Where, and How? </td>
 </tr>
 <tr>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="https://docs.google.com/spreadsheets/d/1U8ovq22ob-5BykDbCMUAXDRQuTVGYdozlUuLunyMRBo/edit?usp=sharing">Information About Datasets</a></td>
+</tr>
+<tr>
   <td colspan="2" height="40" valign="top" class="registration"><a href="https://forms.gle/mDUL4kL1tCcXHTTq7">Video link</a></td>
 </tr>
 <tr>
