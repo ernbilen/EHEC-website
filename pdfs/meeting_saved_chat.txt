@@ -1,0 +1,76 @@
+14:26:55	 From  Martin Andersen : Here is one option: https://www.nytimes.com/interactive/2020/05/06/opinion/coronavirus-us-reopen.html
+14:27:03	 From  Kosali Simon : great
+14:29:55	 From  David Slusky : 49/128 are professors
+14:30:14	 From  David Slusky : 38 are students
+14:34:39	 From  Shooshan Danagoulian  to  David Slusky(Privately) : You are recording.. I see.
+14:35:09	 From  Shooshan Danagoulian : General information about all the datasets discussed today.  https://docs.google.com/spreadsheets/d/1U8ovq22ob-5BykDbCMUAXDRQuTVGYdozlUuLunyMRBo/edit#gid=0
+14:35:31	 From  David Slusky  to  Shooshan Danagoulian(Privately) : yes. I can send you the video
+14:35:34	 From  David Slusky  to  Shooshan Danagoulian(Privately) : sorry if you wanted to
+14:35:40	 From  Ross Epstein  to  Shooshan Danagoulian(Privately) : I believe you have to change sharing settings on the doc :)
+14:36:04	 From  Mustafa Hussein : Thanks Shooshan. Access is restricted, though.
+14:36:42	 From  Shooshan Danagoulian : Here is the link again:
+14:36:44	 From  Shooshan Danagoulian : https://docs.google.com/spreadsheets/d/1U8ovq22ob-5BykDbCMUAXDRQuTVGYdozlUuLunyMRBo/edit?usp=sharing
+14:37:15	 From  Shooshan Danagoulian : Is it working now?  Please let me know!
+14:37:19	 From  Analisa Packham  to  Shooshan Danagoulian(Privately) : I also can’t access the google doc (probably since my university doesn’t use Gmail and that’s what I registered with).
+14:37:26	 From  David Slusky  to  Shooshan Danagoulian(Privately) : not working
+14:37:38	 From  Edward L Kong  to  Shooshan Danagoulian(Privately) : Doesn't work for me :(
+14:37:46	 From  Yashaswini Singh : Hi Shooshan, access still appears to be restricted.
+14:37:57	 From  Kosali Simon : example news story covering data like this https://www.nytimes.com/interactive/2020/05/06/opinion/coronavirus-us-reopen.html
+14:38:04	 From  Shooshan Danagoulian : How about now?
+14:38:05	 From  Shooshan Danagoulian : https://docs.google.com/spreadsheets/d/1U8ovq22ob-5BykDbCMUAXDRQuTVGYdozlUuLunyMRBo/edit?usp=sharing
+14:38:20	 From  Yashaswini Singh : perfect! works now. thank you.
+14:38:21	 From  Shooshan Danagoulian : Thank you for keeping up with my technology!  Hopefully it should work now.  Try again.
+14:38:21	 From  David Bradford : That worked! Thanks\
+14:38:26	 From  Ana Moura : It works for me now, thank you!
+14:38:27	 From  R.G. Childers : worked for me
+14:38:38	 From  Shooshan Danagoulian : Yay!!  Here it is again:
+14:38:39	 From  Shooshan Danagoulian : https://docs.google.com/spreadsheets/d/1U8ovq22ob-5BykDbCMUAXDRQuTVGYdozlUuLunyMRBo/edit?usp=sharing
+14:43:43	 From  David Slusky : How does Safegraph know where you are inside? If I'm in a large space with not a lot of windows (e.g., a hotel at a conference) how does it know where I am?
+14:43:43	 From  David Bradford : Question for SafeGraph: I’ve seen the weekly and monthly data, but not the daily (or, heaven forfend) the daily data.  Is that more granular time also available? If so, how far back in time does it go? (I know the monthly goes back at least to Jan 2018).
+14:45:39	 From  Shooshan Danagoulian : Responding for SafeGraph:  The weekly and monthly data have a JSON field which is a matrix format including daily visitor numbers.  So, with both of those datasets you can go back to January 2018 for daily visits to all the POI in the monthly data. 
+14:46:18	 From  Kelli Marquardt  to  Shooshan Danagoulian(Privately) : Hi Shooshan- will you make this group chat/ questions available after the discussion? I don't want to miss out on anything!
+14:46:35	 From  Shooshan Danagoulian : There is also hourly counts available in the weekly data going back to January 2019.  Again, as before, the hourly data are included in a matrix format as a variable in the dataset.
+14:46:51	 From  Monica Farid : Related to q above for Safegraph : If a person goes to curbside pick up does it count as having gone to the location?
+14:46:59	 From  Shooshan Danagoulian  to  Kelli Marquardt(Privately) : Yes, we will save the chat file and the video and post it on ehealthecon.org
+14:47:32	 From  Shooshan Danagoulian : As a reminder, the chat transcript and the video of this session will be available on the ehealthecon.org website in the next few days.
+14:47:45	 From  Kelli Marquardt  to  Shooshan Danagoulian(Privately) : thank you! 
+14:47:51	 From  Shooshan Danagoulian : Here is the google sheet with info again:
+14:48:00	 From  Shooshan Danagoulian : https://docs.google.com/spreadsheets/d/1U8ovq22ob-5BykDbCMUAXDRQuTVGYdozlUuLunyMRBo/edit?usp=sharing
+14:48:06	 From  Ross Epstein : For those who would like a technical deep-dive into SafeGraph’s visit attribution here is a white paper to dive into - https://www.safegraph.com/visit-attribution
+14:48:19	 From  Sara Moran : Nice! Thanks, Ross!
+14:50:25	 From  Shooshan Danagoulian  to  Ross Epstein(Privately) : Thank you, Ross!  Would you like to discuss this a little after the comments are done?  Or would you rather I just post it on our website?
+14:51:03	 From  Ross Epstein  to  Shooshan Danagoulian(Privately) : I think it’s best if I talk through our documentation rather than a specific answer. So everyone can self-serve their own answers, too
+14:51:24	 From  Shooshan Danagoulian  to  Ross Epstein(Privately) : Great!  Then let's get to it after Kate is done with her comments.
+14:52:18	 From  Martin Andersen : In PlaceIQ: how are home locations defined?
+14:53:17	 From  Yashaswini Singh : Question for Ross/Safegraph: what is the best way to adjust the POI visits for longitudinal analysis, given the # of unique devices in the weekly samples are likely decreasing over time (as people shelter in place)? I have seen the various normalization files available for download, curious if there is a recommended approach. 
+14:54:46	 From  Shooshan Danagoulian  to  Kosali Simon(Privately) : Hi Kosali,  I am collecting some of the questions that have been asked.  So, if you like me to pass them on to you via private chat, let me know.
+14:55:04	 From  Kosali Simon  to  Shooshan Danagoulian(Privately) : yes please
+14:55:38	 From  Shooshan Danagoulian : Again, the spreadsheet with data information:  https://docs.google.com/spreadsheets/d/1U8ovq22ob-5BykDbCMUAXDRQuTVGYdozlUuLunyMRBo/edit?usp=sharing
+14:56:29	 From  Shooshan Danagoulian : The slides will be available on ehealthecon.org in the next few days.
+14:58:08	 From  Shooshan Danagoulian  to  Kosali Simon(Privately) : Here are some questions: MOnica FaridRelated to q above for Safegraph : If a person goes to curbside pick up does it count as having gone to the location?Martin Anderson:In PlaceIQ: how are home locations defined?Yashaswini Singh:Question for Ross/Safegraph: what is the best way to adjust the POI visits for longitudinal analysis, given the # of unique devices in the weekly samples are likely decreasing over time (as people shelter in place)? I have seen the various normalization files available for download, curious if there is a recommended approach. 
+15:05:08	 From  Shooshan Danagoulian  to  Kosali Simon(Privately) : Ross would like to make some comments about the bias in their data.  
+15:05:46	 From  Anaka Aiyar : Is ubermedia collecting data at international (non US) sites? Any other datasets from developing countries on mobile use? 
+15:08:13	 From  David Bradford : What do you do about POI that are stacked on top of each other, as in multi-story buildings, or packed very tightly, such as medical office buildings where many different provider offices might be.
+15:08:36	 From  Kosali Simon  to  Shooshan Danagoulian(Privately) : ok, will ask that qn next
+15:10:47	 From  Javaeria A Qureshi : Do you predict the gender or other demographics of the device-holders visiting these locations? 
+15:11:14	 From  Shooshan Danagoulian : Question for SafeGraph:  Are parking lots included in the polygon?  If so, a pick-up in the parking lot counts as visit.
+15:12:27	 From  Shooshan Danagoulian  to  Kosali Simon(Privately) : More questions:Anaka Aiyar:Is ubermedia collecting data at international (non US) sites? Any other datasets from developing countries on mobile use? David Bradford:What do you do about POI that are stacked on top of each other, as in multi-story buildings, or packed very tightly, such as medical office buildings where many different provider offices might be.Javaeria a Qureshi:Do you predict the gender or other demographics of the device-holders visiting these locations? 
+15:14:12	 From  Shooshan Danagoulian : Yes we are glad to have some of that anonymity!!
+15:18:51	 From  Kosali Simon  to  Shooshan Danagoulian(Privately) : let me know if I have missed any qns
+15:19:32	 From  David Slusky : and did they correlate?
+15:19:34	 From  Shooshan Danagoulian  to  Kosali Simon(Privately) : I think this is all.  I had asked questions about parking lots in location.
+15:20:13	 From  Shooshan Danagoulian  to  Kosali Simon(Privately) : Are parking lots included in the polygon?  If so, a pick-up in the parking lot counts as visit.
+15:21:01	 From  Shooshan Danagoulian : Spreadsheet on the datasets:  https://docs.google.com/spreadsheets/d/1U8ovq22ob-5BykDbCMUAXDRQuTVGYdozlUuLunyMRBo/edit?usp=sharing
+15:21:51	 From  Kosali Simon  to  Shooshan Danagoulian(Privately) : will end fairly soon after asking any last words from panelists?
+15:22:01	 From  Kosali Simon  to  Shooshan Danagoulian(Privately) : will remind on google sheet
+15:22:08	 From  Shooshan Danagoulian  to  Kosali Simon(Privately) : Yes, we should keep it to about an hour.  
+15:22:10	 From  Kosali Simon  to  Shooshan Danagoulian(Privately) : anything on next week's seminar?
+15:22:34	 From  Shooshan Danagoulian  to  Kosali Simon(Privately) : Next week we have Osea Giuntella.  The website has the seminar details.  
+15:24:06	 From  David Bradford : I realize this isn’t possible with the data that is being provided to the community now, but I wonder if the companies have the capability of tracking cluster of travel. For example, would it be possible in principle to see flows of traffic that visit a physician office and then see which pharmacies they then go to?
+15:25:40	 From  David Slusky : Do you release a version of this data for calculating traffic rates?
+15:25:51	 From  Shooshan Danagoulian : It's not possible to track individual devices across time with the datasets that are available.  However, the datasets provide information about Census Block Groups of visitors to a POI, which allows you to see upticks in pharmacy visits after an uptick in physician visits.
+15:28:53	 From  Shooshan Danagoulian : Here is the link again:https://docs.google.com/spreadsheets/d/1U8ovq22ob-5BykDbCMUAXDRQuTVGYdozlUuLunyMRBo/edit?usp=sharing
+15:29:50	 From  David Slusky : https://umn.zoom.us/webinar/register/WN__8ifIKPiQiyIKQyX5ifgIg
+15:29:54	 From  Lucy Xiaolu Wang  to  Shooshan Danagoulian(Privately) : Thank you! Glad to “see” you here!
+15:30:02	 From  Shooshan Danagoulian  to  Lucy Xiaolu Wang(Privately) : Glad to see you!
+15:30:02	 From  David Slusky : "Why Don’t We Sleep Enough? A Field Experiment Among College Students".
