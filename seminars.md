@@ -90,7 +90,7 @@ You can find a list of past seminars with a link to the paper presented and a vi
   <td colspan="2" height="40" valign="top" class="chair">Presenter: Maya Rossin-Slater (Stanford University)</td>
 </tr>
 <tr>
-  <td colspan="2" height="40" valign="top" class="registration"><a href="https://youtu.be/3yrDRINRkVE">Video link</a></td>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="https://youtu.be/Usxc_XmNfHQ">Video link</a></td>
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
