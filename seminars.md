@@ -117,7 +117,7 @@ You can find a list of past seminars with a link to the paper presented and a vi
   <td colspan="2" height="40" valign="top" class="registration"><a href="pdfs/meeting_saved_chat.txt">Chat Transcript</a></td>
 </tr>
 <tr>
-  <td colspan="2" height="40" valign="top" class="registration"><a href="pdfs/slides.ppt">PlaceIQ Slides</a></td>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="pdfs/PlaceIQ_Indices_June24talk.pdf">PlaceIQ Slides</a></td>
 </tr>
 <tr>
   <td colspan="2" height="40" valign="top" class="registration"><a href="https://www.safegraph.com/blog/what-about-bias-in-the-safegraph-dataset">SafeGraph Sampling Bias Info</a></td>
