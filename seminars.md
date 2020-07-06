@@ -134,6 +134,27 @@ You can find a list of past seminars with a link to the paper presented and a vi
     <td colspan="100%"></td>
   </tr>
   
+  <tr>
+  <td colspan="2" height="40" valign="top" class="session"><strong>Date: July 1, 2020</strong></td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="chair">Presenter: Osea Giuntella (University of Pittsburgh)</td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="https://youtu.be/k_cxPwFoRcs">Video link</a></td>
+</tr>
+<tr>
+  <td width="150" valign="top" class="time">2:30 PM EDT</td>
+ <td height="30" valign="top" class="paper"><a href="pdfs/Giuntella_etal_2020.pdf">"Why Don’t We Sleep Enough? A Field Experiment Among College Students" (with Mallory Avery and Peiran Jiao)</a></td>
+ <!--<td height="30" valign="top" class="paper">"Why Don’t We Sleep Enough? A Field Experiment Among College Students" (with Mallory Avery and Peiran Jiao)</td>-->
+</tr>
+
+
+  <tr style="border-bottom:1px solid black">
+    <td colspan="100%"></td>
+  </tr>
+
+
   
 </table>
 
