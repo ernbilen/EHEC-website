@@ -19,27 +19,6 @@ All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**.
  
 
 <tr>
-  <td colspan="2" height="40" valign="top" class="session"><strong>Date: July 15, 2020</strong></td>
-</tr>
-<tr>
-  <td colspan="2" height="40" valign="top" class="chair">Presenter: Alex Hollingsworth (Indiana University) </td>
-</tr>
-<tr>
-  <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_t0IUxXAfRFewKkKfTn1Y-w">Registration link</a></td>
-</tr>
-<tr>
-  <td width="150" valign="top" class="time">2:30 PM EDT</td>
-  <td height="30" valign="top" class="paper"><a href="pdfs/Hollingsworth_Wing_2020.pdf">"Tactics for design and inference in synthetic control studies: An applied example using high-dimensional data" (with Coady Wing)</a></td> 
- <!--   <td height="30" valign="top" class="paper">"Tactics for design and inference in synthetic control studies: An applied example using high-dimensional data" (with Coady Wing)</td>-->
-</tr>
-
-
-  <tr style="border-bottom:1px solid black">
-    <td colspan="100%"></td>
-  </tr>
-
-
-<tr>
   <td colspan="2" height="40" valign="top" class="session"><strong>Date: July 29, 2020</strong></td>
 </tr>
 <tr>
