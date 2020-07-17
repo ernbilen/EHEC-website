@@ -166,6 +166,8 @@ You can find a list of past seminars with a link to the paper presented and a vi
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
   <td height="30" valign="top" class="paper"><a href="pdfs/Hollingsworth_Wing_2020.pdf">"Tactics for design and inference in synthetic control studies: An applied example using high-dimensional data" (with Coady Wing)</a></td> 
+  </tr>
+<tr>
  <td height="30" valign="top" class="paper"><a href="pdfs/hollingsworth_wing_scul_2020_presentation_ehec_2020.pdf">Presentation Slides</a></td> 
 </tr>
 
