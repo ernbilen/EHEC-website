@@ -161,7 +161,7 @@ You can find a list of past seminars with a link to the paper presented and a vi
   <td colspan="2" height="40" valign="top" class="chair">Presenter: Alex Hollingsworth (Indiana University) </td>
 </tr>
 <tr>
-  <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_t0IUxXAfRFewKkKfTn1Y-w">Video</a></td>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="https://youtu.be/GQoiwDK6WzU">Video</a></td>
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
