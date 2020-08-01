@@ -19,26 +19,6 @@ All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**.
  
 
 <tr>
-  <td colspan="2" height="40" valign="top" class="session"><strong>Date: July 29, 2020</strong></td>
-</tr>
-<tr>
-  <td colspan="2" height="40" valign="top" class="chair">Presenter: Caitlin Carroll (University of Minnesota) </td>
-</tr>
-<tr>
-  <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_HzZ94hciTUGLHrI3AmNXMA">Registration link</a></td>
-</tr>
-<tr>
-  <td width="150" valign="top" class="time">2:30 PM EDT</td>
-  <!--  <td height="30" valign="top" class="paper"><a href="pdfs/paper1.pdf">"Physician Response to Malpractice Allegations: Evidence from Florida Emergency Departments" (with David Cutler and Anupam Jena)</a></td> -->
-  <td height="30" valign="top" class="paper">"Physician Response to Malpractice Allegations: Evidence from Florida Emergency Departments" (with David Cutler and Anupam Jena)</td> 
-</tr>
-
-  <tr style="border-bottom:1px solid black">
-    <td colspan="100%"></td>
-  </tr>
-
-
-<tr>
   <td colspan="2" height="40" valign="top" class="session"><strong>Date: August 12, 2020</strong></td>
 </tr>
 <tr>
