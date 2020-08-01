@@ -186,7 +186,7 @@ You can find a list of past seminars with a link to the paper presented and a vi
   <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_HzZ94hciTUGLHrI3AmNXMA">Registration link</a></td>
 </tr> -->
 <tr>
-  <td colspan="2" height="40" valign="top" class="registration">Video Coming Soon!</a></td>
+  <td colspan="2" height="40" valign="top" class="registration">Video Coming Soon!</td>
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
