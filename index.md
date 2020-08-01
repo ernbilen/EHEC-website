@@ -246,4 +246,4 @@ Please note that **these times are for the XX zone**.
 
 ## Support or Contact
 
-Contact EHEC by emailing fr4523 (at) wayne.edu or by Tweeter <img src="https://img.icons8.com/color/26/000000/twitter.png"/> [@HlthEconSeminar](https://twitter.com/HlthEconSeminar).
+Contact EHEC by emailing fr4523 (at) wayne.edu or by Twitter <img src="https://img.icons8.com/color/26/000000/twitter.png"/> [@HlthEconSeminar](https://twitter.com/HlthEconSeminar).
