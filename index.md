@@ -29,8 +29,8 @@ All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**.
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
- <!--   <td height="30" valign="top" class="paper"><a href="pdfs/paper1.pdf">"Picking Your Patients: Selective Admissions in the Nursing Home Industry"</a></td> -->
-  <td height="30" valign="top" class="paper">"Picking Your Patients: Selective Admissions in the Nursing Home Industry"</td>
+   <td height="30" valign="top" class="paper"><a href="https://ssrn.com/abstract=3613950">"Picking Your Patients: Selective Admissions in the Nursing Home Industry"</a></td> 
+ <!--  <td height="30" valign="top" class="paper">"Picking Your Patients: Selective Admissions in the Nursing Home Industry"</td> -->
 </tr>
 
   <tr style="border-bottom:1px solid black">
