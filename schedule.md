@@ -203,7 +203,6 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
-   <td width="150" valign="top" class="time">2:30 PM EDT</td>
    <td height="30" valign="top" class="paper"><a href="https://ssrn.com/abstract=3613950">"Picking Your Patients: Selective Admissions in the Nursing Home Industry"</a></td> 
  <!--  <td height="30" valign="top" class="paper">"Picking Your Patients: Selective Admissions in the Nursing Home Industry"</td> -->
 </tr>
