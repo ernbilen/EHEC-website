@@ -9,9 +9,7 @@ Welcome to the official website for **Electronic Health Economics Colloquium (EH
 The Electronic Health Economics Colloquium (EHEC) is a bi-weekly online health economics seminar series. The goals of EHEC are to share high-quality, new health economics research on a platform that is freely available; maintain and improve communication among health economists during a time of social distancing; and to promote equity in health economics research.
 
 
-## Schedule
-
-All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**.
+test
 
 
 ## Schedule
