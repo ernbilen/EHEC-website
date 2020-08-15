@@ -23,6 +23,3 @@ You can find a list of past seminars with a link to the paper presented and a vi
 
  {% endfor %}
 </table>
-
-
-</table>
