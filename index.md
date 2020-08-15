@@ -11,12 +11,40 @@ The Electronic Health Economics Colloquium (EHEC) is a bi-weekly online health e
 
 ## Schedule
 
-All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**. 
+All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**.
+
+
+## Schedule
+
+All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**.
+
+<table width="100%" cellspacing="5" cellpadding="5">
+
+{% for speaker in site.data.speakers %}
+<tr>
+  <td colspan="2" height="40" valign="top" class="session"><strong>{{ speaker.Date }}</strong></td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="chair">Presenter: {{ speaker.Presenter }}</td>
+</tr>
+<tr>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="{{ speaker.Registration }}">Registration link</a></td>
+</tr>
+<tr>
+  <td width="150" valign="top" class="time">{{ speaker.Time }}</td>
+   <td height="30" valign="top" class="paper"><a href="{{ speaker.Paper }}">"{{ speaker.Title }}"</a></td>
+</tr>
+
+
+ {% endfor %}
+</table>
+
+
 
 <table width="100%" cellspacing="5" cellpadding="5">
 
 
- 
+
 
 <tr>
   <td colspan="2" height="40" valign="top" class="session"><strong>Date: August 12, 2020</strong></td>
@@ -29,7 +57,7 @@ All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**.
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
-   <td height="30" valign="top" class="paper"><a href="https://ssrn.com/abstract=3613950">"Picking Your Patients: Selective Admissions in the Nursing Home Industry"</a></td> 
+   <td height="30" valign="top" class="paper"><a href="https://ssrn.com/abstract=3613950">"Picking Your Patients: Selective Admissions in the Nursing Home Industry"</a></td>
  <!--  <td height="30" valign="top" class="paper">"Picking Your Patients: Selective Admissions in the Nursing Home Industry"</td> -->
 </tr>
 
