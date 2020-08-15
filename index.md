@@ -28,7 +28,7 @@ All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**.
   <td colspan="2" height="40" valign="top" class="registration"><a href="{{ speaker.Registration }}">Registration link</a></td>
 </tr>
 <tr>
-  <td colspan="2" height="40" valign="top" class="registration"><a href="{{ speaker.Registration }}">Registration link</a></td>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="{{ speaker.Link1 }}">{{ speaker.Extra1 }}</a></td>
 </tr>
 <tr>
   <td width="150" valign="top" class="time">{{ speaker.Time }}</td>
