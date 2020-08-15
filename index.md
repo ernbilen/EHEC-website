@@ -2,7 +2,7 @@
 
 # Electronic Health Economics Colloquium (EHEC)
 
-Welcome to the official website for **Electronic Health Economics Colloquium (EHEC)**.  You can find information about the schedule, view past seminars, find calls for papers,  sign up for email list, and read the seminar code of conduct.  test123
+Welcome to the official website for **Electronic Health Economics Colloquium (EHEC)**.  You can find information about the schedule, view past seminars, find calls for papers,  sign up for email list, and read the seminar code of conduct.
 
 ## About
 
