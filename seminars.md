@@ -20,7 +20,9 @@ You can find a list of past seminars with a link to the paper presented and a vi
    <td height="30" valign="top" class="paper"><a href="{{ speaker.Paper }}">"{{ speaker.Title }}"</a></td>
 </tr>
 
-<br>
+<tr style="border-bottom:1px solid black">
+  <td colspan="100%"></td>
+</tr>
 
  {% endfor %}
 </table>
