@@ -15,31 +15,6 @@ The Electronic Health Economics Colloquium (EHEC) is a bi-weekly online health e
 
 All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**.
 
-<table width="100%" cellspacing="5" cellpadding="5">
-
-{% for speaker in site.data.speakers %}
-<tr>
-  <td colspan="2" height="40" valign="top" class="session"><strong>Date: {{ speaker.Date }}</strong></td>
-</tr>
-<tr>
-  <td colspan="2" height="40" valign="top" class="chair">Presenter: {{ speaker.Presenter }}</td>
-</tr>
-<tr>
-  <td colspan="2" height="40" valign="top" class="registration"><a href="{{ speaker.Registration }}">Registration link</a></td>
-</tr>
-<tr>
-  <td colspan="2" height="40" valign="top" class="registration"><a href="{{ speaker.Link1 }}">{{ speaker.Extra1 }}</a></td>
-</tr>
-<tr>
-  <td width="150" valign="top" class="time">{{ speaker.Time }}</td>
-   <td height="30" valign="top" class="paper"><a href="{{ speaker.Paper }}">"{{ speaker.Title }}"</a></td>
-</tr>
-
-
- {% endfor %}
-</table>
-
-<br><br>
 
 
 
