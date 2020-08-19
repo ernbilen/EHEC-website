@@ -25,26 +25,6 @@ All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**.
 
 
 <tr>
-  <td colspan="2" height="40" valign="top" class="session"><strong>Date: August 12, 2020</strong></td>
-</tr>
-<tr>
-  <td colspan="2" height="40" valign="top" class="chair">Presenter: Ashvin Gandhi (University of California, Los Angeles) </td>
-</tr>
-<tr>
-  <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_z1WSfcmWTi6o5YR7BTLuAA">Registration link</a></td>
-</tr>
-<tr>
-  <td width="150" valign="top" class="time">2:30 PM EDT</td>
-   <td height="30" valign="top" class="paper"><a href="https://ssrn.com/abstract=3613950">"Picking Your Patients: Selective Admissions in the Nursing Home Industry"</a></td>
- <!--  <td height="30" valign="top" class="paper">"Picking Your Patients: Selective Admissions in the Nursing Home Industry"</td> -->
-</tr>
-
-  <tr style="border-bottom:1px solid black">
-    <td colspan="100%"></td>
-  </tr>
-
-
-<tr>
   <td colspan="2" height="40" valign="top" class="session"><strong>Date: August 26, 2020</strong></td>
 </tr>
 <tr>
@@ -55,8 +35,8 @@ All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**.
 </tr>
 <tr>
   <td width="150" valign="top" class="time">2:30 PM EDT</td>
- <!--   <td height="30" valign="top" class="paper"><a href="pdfs/paper1.pdf">"The Impact of Alternative Types of Post-Acute Medical Care: Stratified IV Analysis with Machine Learning Using Nursing Home Exits"</a></td> -->
-  <td height="30" valign="top" class="paper">"The Impact of Alternative Types of Post-Acute Medical Care: Stratified IV Analysis with Machine Learning Using Nursing Home Exits"</td>
+    <td height="30" valign="top" class="paper"><a href="pdfs/Want_manuscript_08192020.pdf">"The Impact of Alternative Types of Post-Acute Medical Care: Stratified IV Analysis with Machine Learning Using Nursing Home Exits"</a></td> 
+<!-- <td height="30" valign="top" class="paper">"The Impact of Alternative Types of Post-Acute Medical Care: Stratified IV Analysis with Machine Learning Using Nursing Home Exits"</td> -->
 </tr>
 
 </table>
