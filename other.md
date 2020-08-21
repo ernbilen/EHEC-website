@@ -6,4 +6,4 @@
 
 - The [VERB: Virtual Seminar on the Economics of Risky Health Behaviors](https://www.human.cornell.edu/pam/research/hehbad/worldseminars) shares information on the economics of health behaviors, including smoking, alcohol abuse, drug abuse, poor diet, physical inactivity, obesity, risky sex, self-harm, and suicide.
 
-<img src="verb_logo.jpg" width="500"/>
+<img src="verb_logo.png" width="500"/>
