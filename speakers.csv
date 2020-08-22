@@ -1,12 +1,15 @@
-Date,Time,Presenter,Title,Paper,Registration
+Date,Time,Presenter,Title,Paper,Video
 22-Apr-20,2:30 PM EDT,Kosali Simon,Tracking Public and Private Responses to the COVID-19 Epidemic ,pdfs/Simon_etal_2020.pdf,https://youtu.be/DJ_LZ_0F410
 6-May-20,2:30 PM EDT,Jonathan Gruber,Managing Intelligence: Skilled Experts and AI in Markets for Complex Products,pdfs/Gruber_etal_2020.pdf,https://youtu.be/95E201M63lE
 20-May-20,2:30 PM EDT,Amitabh Chandra,Choosing Unwisely: Behavioral Hazard and Patient Decision Making,No paper available,No video available
 3-Jun-20,2:30 PM EDT,Amy Finkelstein,Voluntary Regulation: Evidence from Medicare Payment Reform,pdfs/Einav_etal_2020.pdf,https://youtu.be/3yrDRINRkVE
 17-Jun-20,2:30 PM EDT,Maya Rossin-Slater,Family Spillover Effects of Misdiagnosis: The Case of ADHD,No paper available,https://youtu.be/Usxc_XmNfHQ
-24-Jun-20,2:30 PM EDT,"SafeGraph, PlaceIQ, UberMedia","Cellular Device Location Data:  What, Where, and How?",https://docs.google.com/document/d/11dUrwevvfkUflyrZclY00la8IVxm7AtOkWUdcBlL3Bg/edit?usp=sharing,https://youtu.be/k_cxPwFoRcs
+24-Jun,2:30 PM EDT,"SafeGraph, PlaceIQ, UberMedia","Cellular Device Location Data:  What, Where, and How?","https://docs.google.com/spreadsheets/d/1U8ovq22ob-5BykDbCMUAXDRQuTVGYdozlUuLunyMRBo/edit?usp=sharing
+pdfs/meeting_saved_chat.txt
+pdfs/PlaceIQ_Indices_June24talk.pdf
+https://www.safegraph.com/blog/what-about-bias-in-the-safegraph-dataset
+https://docs.google.com/document/d/1k_9LGQn95P5gHsSeuBdzgtEWGGCmzXdcOkcphWi0Cas/edit",https://youtu.be/k_cxPwFoRcs
 1-Jul-20,2:30 PM EDT,Osea Giuntella,Why Don't We Sleep Enough? A Field Experiment Among College Students,pdfs/Giuntella_etal_2020.pdf,https://youtu.be/8c1OO5xVqgE
 15-Jul-20,2:30 PM EDT,Alex Hollingsworth,Tactics for design and inference in synthetic control studies: An applied example using high-dimensional data,pdfs/Hollingsworth_Wing_2020.pdf,https://youtu.be/GQoiwDK6WzU
 29-Jul-20,2:30 PM EDT,Caitlin Carroll,Physician Response to Malpractice Allegations: Evidence from Florida Emergency Departments,No paper available,No video available
 12-Aug-20,2:30 PM EDT,"Ashvin Gandhi (University of California, Los Angeles)",Picking Your Patients: Selective Admissions in the Nursing Home Industry,https://ssrn.com/abstract=3613950,https://youtu.be/RnPmqNCWldY
-26-Aug-20,2:30 PM EDT,Adelina Wang (National Bureau of Economic Research),"""The Impact of Alternative Types of Post-Acute Medical Care: Stratified IV Analysis with Machine Learning Using Nursing Home Exits""",pdfs/Wang_manuscript_08192020.pdf,
