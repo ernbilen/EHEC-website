@@ -5,19 +5,19 @@ You can find a list of past seminars with a link to the paper presented and a vi
 
 <table width="100%" cellspacing="5" cellpadding="5">
 
-{% for speaker in site.data.speakers %}
+{% for speaker in site.data.past_seminars %}
 <tr>
-  <td colspan="2" height="40" valign="top" class="session"><strong>Date: {{ past_seminars.Date }}</strong></td>
+  <td colspan="2" height="40" valign="top" class="session"><strong>Date: {{ speaker.Date }}</strong></td>
 </tr>
 <tr>
-  <td colspan="2" height="40" valign="top" class="chair">Presenter: {{ past_seminars.Presenter }}</td>
+  <td colspan="2" height="40" valign="top" class="chair">Presenter: {{ speaker.Presenter }}</td>
 </tr>
 <tr>
-  <td colspan="2" height="40" valign="top" class="registration"><a href="{{ past_seminars.Video }}">Video</a></td>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="{{ speaker.Video }}">Video</a></td>
 </tr>
 <tr>
-  <td width="150" valign="top" class="time">{{ past_seminars.Time }}</td>
-   <td height="30" valign="top" class="paper"><a href="{{ past_seminars.Paper }}">"{{ past_seminars.Title }}"</a></td>
+  <td width="150" valign="top" class="time">{{ speaker.Time }}</td>
+   <td height="30" valign="top" class="paper"><a href="{{ speaker.Paper }}">"{{ speaker.Title }}"</a></td>
 </tr>
 
 <tr style="border-bottom:1px solid black">
