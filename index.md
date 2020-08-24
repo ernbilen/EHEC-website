@@ -21,27 +21,26 @@ All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**.
 
 <table width="100%" cellspacing="5" cellpadding="5">
 
-{% for speaker in site.data.speakers %}
+
+
+
 <tr>
-  <td colspan="2" height="40" valign="top" class="session"><strong>Date: {{ index.Date }}</strong></td>
+  <td colspan="2" height="40" valign="top" class="session"><strong>Date: August 26, 2020</strong></td>
 </tr>
 <tr>
-  <td colspan="2" height="40" valign="top" class="chair">Presenter: {{ index.Presenter }}</td>
+  <td colspan="2" height="40" valign="top" class="chair">Presenter: Adelina Wang (National Bureau of Economic Research) </td>
 </tr>
 <tr>
-  <td colspan="2" height="40" valign="top" class="registration"><a href="{{ index.Registration }}">Video</a></td>
+  <td colspan="2" height="40" valign="top" class="registration"><a href="https://umn.zoom.us/webinar/register/WN_92T51VVdQKqsBJETEWyJ6g">Registration link</a></td>
 </tr>
 <tr>
-  <td width="150" valign="top" class="time">{{ index.Time }}</td>
-   <td height="30" valign="top" class="paper"><a href="{{ index.Paper }}">"{{ index.Title }}"</a></td>
+  <td width="150" valign="top" class="time">2:30 PM EDT</td>
+    <td height="30" valign="top" class="paper"><a href="pdfs/Want_manuscript_08192020.pdf">"The Impact of Alternative Types of Post-Acute Medical Care: Stratified IV Analysis with Machine Learning Using Nursing Home Exits"</a></td>
+<!-- <td height="30" valign="top" class="paper">"The Impact of Alternative Types of Post-Acute Medical Care: Stratified IV Analysis with Machine Learning Using Nursing Home Exits"</td> -->
 </tr>
 
-<tr style="border-bottom:1px solid black">
-  <td colspan="100%"></td>
-</tr>
-
- {% endfor %}
 </table>
+
 
 
 
