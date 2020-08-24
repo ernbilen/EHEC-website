@@ -1,6 +1,6 @@
 ## Schedule
 
-The schedule is updated regularly as new seminars are added to the series.
+The schedule is updated regularly as new seminars are added to the series.sdfsdf
 All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
 
 <table width="100%" cellspacing="5" cellpadding="5">
