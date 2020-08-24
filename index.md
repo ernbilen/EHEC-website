@@ -17,30 +17,7 @@ All seminars meet at **2:30 PM EDT 1:30 PM CDT  11:30 AM PDT**.
 
 
 
-
-<table width="100%" cellspacing="5" cellpadding="5">
-
-{% for speaker in site.data.speakers %}
-<tr>
-  <td colspan="2" height="40" valign="top" class="session"><strong>Date: {{ index.Date }}</strong></td>
-</tr>
-<tr>
-  <td colspan="2" height="40" valign="top" class="chair">Presenter: {{ index.Presenter }}</td>
-</tr>
-<tr>
-  <td colspan="2" height="40" valign="top" class="registration"><a href="{{ index.Registration }}">Video</a></td>
-</tr>
-<tr>
-  <td width="150" valign="top" class="time">{{ index.Time }}</td>
-   <td height="30" valign="top" class="paper"><a href="{{ index.Paper }}">"{{ index.Title }}"</a></td>
-</tr>
-
-<tr style="border-bottom:1px solid black">
-  <td colspan="100%"></td>
-</tr>
-
- {% endfor %}
-</table>
+asd
 
 
 
