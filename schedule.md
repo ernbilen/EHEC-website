@@ -14,6 +14,9 @@ All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
   <td colspan="2" height="40" valign="top" class="chair">Presenter: {{ speaker.Presenter }}</td>
 </tr>
 <tr>
+  <td colspan="2" height="40" valign="top" class="chair">Moderator: {{ speaker.Moderator }}</td>
+</tr>
+<tr>
   <td colspan="2" height="40" valign="top" class="registration"><a href="{{ speaker.Registration }}">Registration</a></td>
 </tr>
 <tr>
