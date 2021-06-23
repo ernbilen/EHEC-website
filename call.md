@@ -2,4 +2,4 @@
 
 We are looking for papers in late draft stages in any area of health economics (broadly defind) to be presented at future EHEC seminars.  Submission portal will be open until **December 21, 2020 at 6:00 PM EDT / 5:00 PM CDT**.  If selected, presenters will be notified as soon as possible.  Seminars will be every two weeks at 2:30 PM EDT / 1:30 PM CDT / 11:30 AM PDT starting on January 13, 2021. 
 
-[Submission Portal](https://docs.google.com/forms/d/11-Kf6ymur25TW2-HAFxe801csfzCsglwdPp6CzpgSKo/viewform?edit_requested=true)
+[Submission Portal](https://forms.gle/qRDsvyCfxuK1Nc9v9)
