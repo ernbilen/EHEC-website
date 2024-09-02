@@ -1,4 +1,4 @@
-## Next Seminar
+## Schedule
 
 The schedule is updated regularly as new seminars are added to the series.
 All seminars start at **2:30PM EDT / 1:30PM CDT / 11:30AM PDT**.
