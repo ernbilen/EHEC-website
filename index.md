@@ -215,4 +215,4 @@ Please note that **these times are for the XX zone**.
 
 ## Support or Contact
 
-Contact EHEC by emailing juan.echenique (at) nyulangone.org or by Twitter <img src="https://img.icons8.com/color/26/000000/twitter.png"/> [@HlthEconSeminar](https://twitter.com/HlthEconSeminar).
+Contact EHEC by emailing juan.echenique (at) nyulangone.org, by Twitter <img src="https://img.icons8.com/color/26/000000/twitter.png"/> [@HlthEconSeminar](https://twitter.com/HlthEconSeminar) or BlueSky [@ehecseminar.bsky.social](https://bsky.app/profile/ehecseminar.bsky.social).
