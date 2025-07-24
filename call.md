@@ -12,6 +12,6 @@ As always, please let us know if you have any questions or suggestions, or if yo
 
 David, Jason, Orgul, Alex, Yanling, Juan, and Ben
 EHEC Co-Organizers
-@HlthEconSeminar
+[@HlthEconSeminar](https://twitter.com/HlthEconSeminar)/[@ehecseminar.bsky.social](https://bsky.app/profile/ehecseminar.bsky.social)
 
 [Submission Portal](https://forms.gle/BQnh6bmdcbv1jsDz6)
