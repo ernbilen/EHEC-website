@@ -1,5 +1,17 @@
 ## Call for Papers
 
-We are looking for papers in late draft stages in any area of health economics (broadly defined) to be presented at future EHEC seminars.  Submission portal will be open until **December 16, 2022 at 6:00 PM EDT / 5:00 PM CDT**.  If selected, presenters will be notified as soon as possible.  Seminars dates will be chosen at a first-come first-served basis between January and  June on a Wednesday at 2:30 PM EDT / 1:30 PM CDT / 11:30 AM PDT. 
+Dear fellow health economists,
 
-[Submission Portal](https://forms.gle/M6X7qMmpYiYRnT8S6)
+We hope you are all well. We want to announce a call for papers for Fall 2025, due August 24. Please note that this call is for economists who have already earned their Ph.D.
+
+Please upload a complete draft of your paper by 11:59 PM (CST) on January 24, 2025.  We hope to get back to those who submitted as soon as possible. Those selected will be sent a link to choose a date (on a first-come, first-served basis). Please submit at: https://forms.gle/BQnh6bmdcbv1jsDz6.  We want EHEC to be as diverse as possible, and so we especially encourage submissions from individuals from underrepresented groups in Health Economics.   We also encourage those who submitted previous calls but whose papers were not included to resubmit, even without any revisions.
+
+Finally, if you are interested in getting involved with EHEC in other ways (e.g., moderating future seminars, helping to organize events, managing associated social media, etc.), please reach out to any of the organizers.
+
+As always, please let us know if you have any questions or suggestions, or if you'd like to be removed from this list.    
+
+David, Jason, Orgul, Alex, Yanling, Juan, and Ben
+EHEC Co-Organizers
+@HlthEconSeminar
+
+[Submission Portal](https://forms.gle/BQnh6bmdcbv1jsDz6)
